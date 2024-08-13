@@ -38,9 +38,9 @@ This project is a simple NestJS API for handling user transactions with MongoDB 
 ### 1. Clone the Repository
 
 ```bash
-$ git clone https://github.com/your-username/nestjs-transactions-api.git
+$ git clone https://github.com/chizzyedoka/stream-backend-task
 
-$ cd nestjs-transactions-api
+$ cd stream-backend-task
 ```
 
 ### 2. Install Dependencies
@@ -60,8 +60,6 @@ Go to the app.module.ts file and insert the necessary imports
 ```
 
 - Replace 'mongodb://localhost/stream' with your MongoDB connection string if different.
-
-- Adjust the PORT if needed.
 
 ### 4. Running the app
 
